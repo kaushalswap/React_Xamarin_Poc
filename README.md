@@ -28,3 +28,4 @@ The sample application only works on a simulator. Physical devices run into this
 [error][tid:com.facebook.React.JavaScript] 'Error: undefined is not an object (evaluating \'t("NativeModules").UIManager.RCTDatePicker.Constants\')\n
 
 ```
+But after all this its not a good to import Xamarin into React
